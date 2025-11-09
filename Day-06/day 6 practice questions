@@ -1,15 +1,16 @@
 SELECT * FROM patients;
 SELECT * FROM staff;
-
-SELECT * FROM services_weekly;
-
 -- Practice Questions
 -- 1. Count the number of patients by each service.
-SELECT COUNT(*) AS total_patients_per_service FROM patients GROUP BY service; 
+SELECT service,  COUNT(*) AS total_patients_per_service FROM patients GROUP BY service; 
+
 -- 2. Calculate the average age of patients grouped by service.
-SELECT AVG(age) AS avg_age_per_sevrice FROM patientS GROUP BY service;
+
+SELECT service, AVG(age) AS avg_age_per_sevrice FROM patientS GROUP BY service;
+
 -- 3. Find the total number of staff members per role.
-SELECT COUNT (staff_name) AS total_staff_per_Role  FROM staff GROUP BY role;
+
+SELECT role ,COUNT (staff_name) AS total_staff_per_Role  FROM staff GROUP BY role;
 
 
 
