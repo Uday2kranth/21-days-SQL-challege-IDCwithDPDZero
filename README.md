@@ -38,17 +38,17 @@ This repository contains my daily SQL challenge solutions. Each day has its own 
 
 | Day | Challenge | Status |
 |-----|-----------|--------|
-| [Day 01](./Day-01) | Challenge 01 | 🔜 Pending |
-| [Day 02](./Day-02) | Challenge 02 | 🔜 Pending |
-| [Day 03](./Day-03) | Challenge 03 | 🔜 Pending |
-| [Day 04](./Day-04) | Challenge 04 | 🔜 Pending |
-| [Day 05](./Day-05) | Challenge 05 | 🔜 Pending |
-| [Day 06](./Day-06) | Challenge 06 | 🔜 Pending |
-| [Day 07](./Day-07) | Challenge 07 | 🔜 Pending |
-| [Day 08](./Day-08) | Challenge 08 | 🔜 Pending |
-| [Day 09](./Day-09) | Challenge 09 | 🔜 Pending |
-| [Day 10](./Day-10) | Challenge 10 | 🔜 Pending |
-| [Day 11](./Day-11) | Challenge 11 | 🔜 Pending |
+| [Day 01](./Day-01) | Challenge 01 | ✅ Complete |
+| [Day 02](./Day-02) | Challenge 02 | ✅ Complete |
+| [Day 03](./Day-03) | Challenge 03 | ✅ Complete |
+| [Day 04](./Day-04) | Challenge 04 | ✅ Complete |
+| [Day 05](./Day-05) | Challenge 05 | ✅ Complete |
+| [Day 06](./Day-06) | Challenge 06 | ✅ Complete |
+| [Day 07](./Day-07) | Challenge 07 | ✅ Complete |
+| [Day 08](./Day-08) | Challenge 08 | ✅ Complete |
+| [Day 09](./Day-09) | Challenge 09 | ✅ Complete |
+| [Day 10](./Day-10) | Challenge 10 | ✅ Complete |
+| [Day 11](./Day-11) | Challenge 11 | ✅ Complete |
 | [Day 12](./Day-12) | Challenge 12 | 🔜 Pending |
 | [Day 13](./Day-13) | Challenge 13 | 🔜 Pending |
 | [Day 14](./Day-14) | Challenge 14 | 🔜 Pending |
