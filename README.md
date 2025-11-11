@@ -1,15 +1,5 @@
-<<<<<<< HEAD
-# Day-03 - SQL Challenge
 
-## Challenge Description
-<!-- Add the challenge description here -->
 
-## Solution
-<!-- Add your SQL solution here -->
-
-## Notes
-<!-- Add any notes, learnings, or explanations here -->
-=======
 # 21 Days SQL Challenge - IDC with DPDZero
 
 Welcome to my 21 Days SQL Challenge repository! This repository is organized as part of the SQL challenge organized by IDC with DPDZero.
