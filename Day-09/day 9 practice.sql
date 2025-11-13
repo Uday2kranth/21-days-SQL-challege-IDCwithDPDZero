@@ -18,3 +18,7 @@ SELECT name FROM patients WHERE date_part('month', arrival_date) = '06' ;
 
 SELECT * FROM patients
 WHERE EXTRACT(MONTH FROM arrival_date) = 8;
+
+
+
+
