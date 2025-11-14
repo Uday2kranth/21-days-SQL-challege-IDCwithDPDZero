@@ -1,0 +1,12 @@
+service,event,event_count
+general_medicine,flu,6
+emergency,flu,5
+ICU,flu,5
+surgery,donation,5
+emergency,donation,4
+emergency,strike,4
+surgery,strike,4
+general_medicine,donation,3
+general_medicine,strike,3
+surgery,flu,3
+ICU,donation,2
