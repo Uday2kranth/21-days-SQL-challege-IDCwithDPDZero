@@ -6,11 +6,18 @@ SELECT
     week,
 	event
 FROM services_weekly
-    WHERE event='none';
+WHERE event='none' AND event IS NULL;
 
 -- 2. Count how many records have null or empty event values.
 SELECT
-	 COUNT(*) from services_weekly where event is null or event ='';
+	 COUNT(*) 
+FROM  
+	services_weekly 
+WHERE event IS NULL OR event ='';
 -- 3. List all services that had at least one week with a special event.
 
-select service,event from services_weekly where event is not null or event !='none';
+SELECT 
+	service,event 
+FROM 
+	services_weekly 
+WHERE event IS NOT NULL OR event !='none';
