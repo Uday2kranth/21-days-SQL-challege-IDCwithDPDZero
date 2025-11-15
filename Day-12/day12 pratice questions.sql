@@ -17,7 +17,7 @@ WHERE event IS NULL OR event ='';
 -- 3. List all services that had at least one week with a special event.
 
 SELECT 
-	service,event 
+	service,event ,week
 FROM 
 	services_weekly 
 WHERE event IS NOT NULL AND event !='none';
