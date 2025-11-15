@@ -15,6 +15,6 @@ GROUP BY
 			WHEN event='none' OR event IS NULL THEN 'NO event'
 			ELSE 'with event'
 		END 
-Order BY AVG(patient_satisfaction) DESC ;
+ORDER BY AVG(patient_satisfaction) DESC ;
 
 
