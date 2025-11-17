@@ -6,6 +6,6 @@
 SELECT DISTINCT service, event ,COUNT(*) AS event_count
 FROM services_weekly 
 WHERE 
-     event !='none' and event IS NOT NULL
+     event !='none' and event IS OR NULL
 GROUP BY service,event
 ORDER BY event_count DESC;
