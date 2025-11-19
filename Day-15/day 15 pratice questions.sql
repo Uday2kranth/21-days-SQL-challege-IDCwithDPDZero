@@ -24,8 +24,8 @@ WHERE
     ss.present = 1;
 
 -- 3. Create a multi-table report showing patient admissions with staff information.
-Select sw.week,ss.week, sw.service ,sw.patients_admitted,ss.staff_id,ss.role,ss.service
-from staff_schedule ss join services_weekly sw on ss.service =sw.service and sw.week =ss.week;
+SELECT  sw.week,ss.week, sw.service ,sw.patients_admitted,ss.staff_id,ss.role,ss.service
+FROM  staff_schedule ss JOIN services_weekly sw ON ss.service =sw.service AND sw.week =ss.week;
 
 
 -- select * from patients;
