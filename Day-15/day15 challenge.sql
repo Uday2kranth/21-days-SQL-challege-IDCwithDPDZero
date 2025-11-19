@@ -5,7 +5,7 @@ SELECT
 	sw.service,
 	MAX(sw.patients_admitted) AS total_admitted ,
 	MAX(sw.patients_refused) AS total_refused,
-	AVG(sw.patient_satisfaction) AS AVG_satisfaction_score,
+	ROUND(AVG(sw.patient_satisfaction),0) AS AVG_satisfaction_score,
 	COUNT(ss.staff_id) AS staff_assigned , 
 	COALESCE(sum(ss.present),0) AS staff_present 
 FROM 
@@ -16,3 +16,4 @@ GROUP BY
 		sw.service 
 ORDER BY
 		total_admitted DESC;
+

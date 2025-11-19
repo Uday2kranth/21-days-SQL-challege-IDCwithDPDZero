@@ -1,0 +1,5 @@
+"service","total_admitted","total_refused","avg_satisfaction_score","staff_assigned","staff_present"
+"general_medicine",40,30,64,"28","24"
+"surgery",31,8,99,"25","23"
+"emergency",21,24,93,"39","37"
+"ICU",10,4,85,"34","31"
