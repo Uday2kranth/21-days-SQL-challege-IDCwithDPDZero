@@ -19,7 +19,7 @@ select * from pizzas where size ='L' or size='XL';
 SELECT * from pizzas where price between 15.00 and 17.00;
 select * from pizzas where price >=15.00 and price <=17.00;
 -- 5. Pizzas with `"Chicken"` in the name.
-select * from pizza_types where category ='Chicken';
+select name from pizza_types where category ='Chicken';
 
 -- 6. Orders on `'2015-02-15'` or placed after 8 PM.
 select * from orders where date ='2015-02-15' or  time >='20:00:00';
