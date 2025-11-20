@@ -28,22 +28,23 @@ This repository contains my daily SQL challenge solutions. Each day has its own 
 
 | Day | Challenge | Status |
 |-----|-----------|--------|
-| [Day 01](./Day-01) | Challenge 01 | ✅ Complete |
-| [Day 02](./Day-02) | Challenge 02 | ✅ Complete |
-| [Day 03](./Day-03) | Challenge 03 | ✅ Complete |
-| [Day 04](./Day-04) | Challenge 04 | ✅ Complete |
-| [Day 05](./Day-05) | Challenge 05 | ✅ Complete |
-| [Day 06](./Day-06) | Challenge 06 | ✅ Complete |
-| [Day 07](./Day-07) | Challenge 07 | ✅ Complete |
-| [Day 08](./Day-08) | Challenge 08 | ✅ Complete |
-| [Day 09](./Day-09) | Challenge 09 | ✅ Complete |
-| [Day 10](./Day-10) | Challenge 10 | ✅ Complete |
-| [Day 11](./Day-11) | Challenge 11 | ✅ Complete |
-| [Day 12](./Day-12) | Challenge 12 | 🔜 Pending |
-| [Day 13](./Day-13) | Challenge 13 | 🔜 Pending |
-| [Day 14](./Day-14) | Challenge 14 | 🔜 Pending |
-| [Day 15](./Day-15) | Challenge 15 | 🔜 Pending |
-| [Day 16](./Day-16) | Challenge 16 | 🔜 Pending |
+| [Day 01](./Day-01) | Challenge 01 | ✅ Completed |
+| [Day 02](./Day-02) | Challenge 02 | ✅ Completed |
+| [Day 03](./Day-03) | Challenge 03 | ✅ Completed |
+| [Day 04](./Day-04) | Challenge 04 | ✅ Completed |
+| [Day 05](./Day-05) | Challenge 05 | ✅ Completed |
+| [Day 06](./Day-06) | Challenge 06 | ✅ Completed |
+| [Day 07](./Day-07) | Challenge 07 | ✅ Completed |
+| [Day 08](./Day-08) | Challenge 08 | ✅ Completed |
+| [Day 09](./Day-09) | Challenge 09 | ✅ Completed |
+| [Day 10](./Day-10) | Challenge 10 | ✅ Completed |
+| [Day 11](./Day-11) | Challenge 11 | ✅ Completed |
+| [Day 12](./Day-12) | Challenge 12 | ✅  Completed|
+| [Day 13](./Day-13) | Challenge 13 | ✅  Completed |
+| [Day 14](./Day-14) | Challenge 14 | ✅  Completed |
+| [Day 15](./Day-15) | Challenge 15 | ✅  Completed |
+| [Mini Project](./Mini Project) | Mini Project | ✅  Completed |
+| [Day 16](./Day-16) | Challenge 16 | 🔜 Completed |
 | [Day 17](./Day-17) | Challenge 17 | 🔜 Pending |
 | [Day 18](./Day-18) | Challenge 18 | 🔜 Pending |
 | [Day 19](./Day-19) | Challenge 19 | 🔜 Pending |
@@ -65,7 +66,7 @@ This repository contains my daily SQL challenge solutions. Each day has its own 
 
 3. **Tracking Progress:**
    - Update the status in the table above as you complete each challenge
-   - Use emojis: ✅ Completed | 🔜 Pending | 🚧 In Progress
+   - Use emojis: ✅ Completedd | 🔜 Pending | 🚧 In Progress
 
 ## 🛠️ Technologies
 
