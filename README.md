@@ -49,7 +49,7 @@ This repository contains my daily SQL challenge solutions. Each day has its own 
 | [Day 19](./Day-19) | Challenge 19 | 🔜 Pending |
 | [Day 20](./Day-20) | Challenge 20 | 🔜 Pending |
 | [Day 21](./Day-21) | Challenge 21 | 🔜 Pending |
-| [Mini _Project](./Mini _Project) | Mini Project | ✅  Completed |
+| [Mini_Project](./Mini_Project) | Mini Project | ✅  Completed |
 
 ## 🎯 How to Use This Repository
 
