@@ -43,7 +43,7 @@ This repository contains my daily SQL challenge solutions. Each day has its own 
 | [Day 13](./Day-13) | Challenge 13 | ✅  Completed |
 | [Day 14](./Day-14) | Challenge 14 | ✅  Completed |
 | [Day 15](./Day-15) | Challenge 15 | ✅  Completed |
-| [Mini Project](./Mini Project) | Mini Project | ✅  Completed |
+| [Mini Project](./Mini _Project) | Mini Project | ✅  Completed |
 | [Day 16](./Day-16) | Challenge 16 | 🔜 Completed |
 | [Day 17](./Day-17) | Challenge 17 | 🔜 Pending |
 | [Day 18](./Day-18) | Challenge 18 | 🔜 Pending |
