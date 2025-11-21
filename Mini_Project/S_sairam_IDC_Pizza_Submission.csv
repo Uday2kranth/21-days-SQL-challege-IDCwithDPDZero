@@ -1,0 +1,6 @@
+﻿Name,Email Address,AnswerQuery
+S SaiRam,sairam93927@gmail.com,"SELECT 
+	DISTINCT category AS pizza_categories 
+FROM 
+	pizza_types;"
+S SaiRam,sairam93927@gmail.com,
