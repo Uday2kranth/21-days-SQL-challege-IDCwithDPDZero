@@ -8,7 +8,8 @@
 	service
  FROM 
  	patients
- WHERE service ='surgery' OR service='emergency'
+ WHERE 
+ 	service ='surgery' OR service='emergency'
  UNION ALL
  SELECT 
  	staff_id,
@@ -17,7 +18,8 @@
 	service
  FROM  
  	staff
- where service='surgery' OR service 'emergency'
+ WHERE 
+ 	service='surgery' OR service ='emergency'
  ORDER BY 
  	type,
 	service,
