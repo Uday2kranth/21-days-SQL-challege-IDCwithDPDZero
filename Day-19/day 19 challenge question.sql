@@ -4,7 +4,7 @@
 
 
 SELECT * FROM  ( SELECT service ,week,patient_satisfaction,
-RANK() OVER (PARTITION BY service ORDER BY  patient_satisfaction) AS sat_rank FROM services_weekly  ) AS top_3_weeks_per_service WHERE sat_rank<=3;
+RANK() OVER (PARTITION BY service ORDER BY  patient_satisfaction DESC) AS sat_rank FROM services_weekly  ) AS top_3_weeks_per_service WHERE sat_rank<=3;
 
 
 
