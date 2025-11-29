@@ -39,19 +39,18 @@ This repository contains my daily SQL challenge solutions. Each day has its own 
 | [Day 09](./Day-09) | Challenge 09 | ✅ Completed |
 | [Day 10](./Day-10) | Challenge 10 | ✅ Completed |
 | [Day 11](./Day-11) | Challenge 11 | ✅ Completed |
-| [Day 12](./Day-12) | Challenge 12 | ✅  Completed|
-| [Day 13](./Day-13) | Challenge 13 | ✅  Completed |
-| [Day 14](./Day-14) | Challenge 14 | ✅  Completed |
-| [Day 15](./Day-15) | Challenge 15 | ✅  Completed |
-| [Day 16](./Day-16) | Challenge 16 | 🔜 Completed |
-| [Day 17](./Day-17) | Challenge 17 | 🔜 Pending |
-| [Day 18](./Day-18) | Challenge 18 | 🔜 Pending |
-| [Day 19](./Day-19) | Challenge 19 | 🔜 Pending |
-| [Day 20](./Day-20) | Challenge 20 | 🔜 Pending |
-| [Day 21](./Day-21) | Challenge 21 | 🔜 Pending |
-| [Mini_Project](./Mini_Project) | Mini Project | ✅  Completed |
-
-| [Major Project](./Major Project) | Mini Project | ✅  Completed |
+| [Day 12](./Day-12) | Challenge 12 | ✅ Completed|
+| [Day 13](./Day-13) | Challenge 13 | ✅ Completed |
+| [Day 14](./Day-14) | Challenge 14 | ✅ Completed |
+| [Day 15](./Day-15) | Challenge 15 | ✅ Completed |
+| [Day 16](./Day-16) | Challenge 16 | ✅ Completed  |
+| [Day 17](./Day-17) | Challenge 17 | ✅ Completed  |
+| [Day 18](./Day-18) | Challenge 18 | ✅ Completed  |
+| [Day 19](./Day-19) | Challenge 19 | ✅ Completed  |
+| [Day 20](./Day-20) | Challenge 20 | ✅ Completed  |
+| [Day 21](./Day-21) | Challenge 21 | ✅ Completed  |
+| [Mini_Project](./Mini_Project) | Mini Project | ✅ Completed |
+| [Major Project](./Major Project) | Mini Project | ✅ Completed |
 ## 🎯 How to Use This Repository
 
 1. **Daily Workflow:**
