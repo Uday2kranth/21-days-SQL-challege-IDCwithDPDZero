@@ -51,6 +51,7 @@ This repository contains my daily SQL challenge solutions. Each day has its own 
 | [Day 21](./Day-21) | Challenge 21 | 🔜 Pending |
 | [Mini_Project](./Mini_Project) | Mini Project | ✅  Completed |
 
+| [Major Project](./Major Project) | Mini Project | ✅  Completed |
 ## 🎯 How to Use This Repository
 
 1. **Daily Workflow:**
