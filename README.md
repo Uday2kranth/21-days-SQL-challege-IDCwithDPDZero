@@ -50,7 +50,7 @@ This repository contains my daily SQL challenge solutions. Each day has its own 
 | [Day 20](./Day-20) | Challenge 20 | ✅ Completed  |
 | [Day 21](./Day-21) | Challenge 21 | ✅ Completed  |
 | [Mini_Project](./Mini_Project) | Mini Project | ✅ Completed |
-| [Major Project](./Major Project) | Mini Project | ✅ Completed |
+| [Major Project](./Major-Project) | Mini Project | ✅ Completed |
 ## 🎯 How to Use This Repository
 
 1. **Daily Workflow:**
